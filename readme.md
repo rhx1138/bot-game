@@ -1,3 +1,1 @@
-# bot-game #
-
-A simple prompt game
+# bot-game
